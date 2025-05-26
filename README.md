@@ -1,6 +1,6 @@
 # PCOS-Detection-Model
 
-PCOS Detection model is a supervised learning model trained on a dummy dataset of 200 entries using a custom python script.The Symptom features were defined based on the symptoms defined on Mayo Clinic, Cleveland Clinic and Queensland Health Department's websites.
+PCOS Detection model is a supervised learning model trained on a dummy dataset of 200 entries using a custom python script. The Symptom features were defined based on the symptoms defined on Mayo Clinic, Cleveland Clinic and Queensland Health Department's websites.
 
 For preprocessing, Label Encoding was used to convert categorical variables into numerical equivalents. Using Random Forest Algorithm, the model was trained on 80% training data with the rest 20% of data serving as validation set. 
 
